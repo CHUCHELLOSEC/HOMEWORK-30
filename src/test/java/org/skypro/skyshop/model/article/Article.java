@@ -1,5 +1,5 @@
 package org.skypro.skyshop.model.article;
-//test
+
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.skypro.skyshop.model.search.Searchable;
 import java.util.UUID;

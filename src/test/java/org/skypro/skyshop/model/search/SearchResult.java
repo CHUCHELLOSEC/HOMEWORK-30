@@ -1,5 +1,5 @@
 package org.skypro.skyshop.model.search;
-//test
+
 import java.util.UUID;
 
 public class SearchResult {

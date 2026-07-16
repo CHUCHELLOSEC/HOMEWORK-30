@@ -86,4 +86,4 @@ class SearchServiceTest {
         assertEquals(2, result.size());
         assertTrue(result.stream().allMatch(r -> r.getName().contains("яблок")));
     }
-}
+}//test

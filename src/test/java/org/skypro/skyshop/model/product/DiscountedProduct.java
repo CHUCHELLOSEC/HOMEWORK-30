@@ -1,5 +1,5 @@
 package org.skypro.skyshop.model.product;
-
+//test
 import java.util.UUID;
 
 public class DiscountedProduct extends Product {

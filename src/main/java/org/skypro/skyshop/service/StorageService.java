@@ -1,5 +1,5 @@
 package org.skypro.skyshop.service;
-
+//test//test
 import org.skypro.skyshop.model.article.Article;
 import org.skypro.skyshop.model.product.*;
 import org.skypro.skyshop.model.search.Searchable;
